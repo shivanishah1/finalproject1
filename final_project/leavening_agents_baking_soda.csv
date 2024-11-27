@@ -2,7 +2,7 @@ Downloaded from
 https://www.nutritionvalue.org
 
 Food,Amount,Unit,Description
-"Leavening agents, baking soda",4.6,g,1 tsp
+"Leavening agents, baking soda",10,g,
 
 Nutrient,Amount,Unit,DV
 Calories,0,,
@@ -39,8 +39,8 @@ Calories,0,,
 "Manganese",0.000,mg,0 %
 "Phosphorus",0.00,mg,0 %
 "Potassium",0.00,mg,0 %
-"Selenium",0.01,mcg,0 %
-"Sodium",1258.56,mg,55 %
+"Selenium",0.02,mcg,0 %
+"Sodium",2736.00,mg,119 %
 "Zinc",0.00,mg,0 %
 "Protein",0.00,g,0 %
 "Carbohydrate",0.00,g,0 %
@@ -72,10 +72,10 @@ Calories,0,,
 "Octadecatrienoic acid",0.000,g,
 "Cholesterol",0.00,mg,0 %
 "Alcohol, ethyl",0.0,g,
-"Ash",1.70,g,
+"Ash",3.69,g,
 "Caffeine",0.00,mg,
 "Theobromine",0.00,mg,
-"Water",0.01,g,
+"Water",0.02,g,
 
 * DV is based on 2000 calories diet.
 

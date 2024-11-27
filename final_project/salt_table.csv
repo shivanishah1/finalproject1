@@ -2,7 +2,7 @@ Downloaded from
 https://www.nutritionvalue.org
 
 Food,Amount,Unit,Description
-"Salt, table",6,g,1 tsp
+"Salt, table",10,g,
 
 Nutrient,Amount,Unit,DV
 Calories,0,,
@@ -31,16 +31,16 @@ Calories,0,,
 "Vitamin K",0.0,mcg,0 %
 "Vitamin K1 [Phylloquinone]",0.0,mcg,
 "Choline",0.0,mg,0 %
-"Calcium",1.44,mg,0 %
+"Calcium",2.40,mg,0 %
 "Copper",0.00,mg,0 %
-"Fluoride",0.1,mcg,
-"Iron",0.02,mg,0 %
-"Magnesium",0.06,mg,0 %
-"Manganese",0.006,mg,0 %
+"Fluoride",0.2,mcg,
+"Iron",0.03,mg,0 %
+"Magnesium",0.10,mg,0 %
+"Manganese",0.010,mg,0 %
 "Phosphorus",0.00,mg,0 %
-"Potassium",0.48,mg,0 %
+"Potassium",0.80,mg,0 %
 "Selenium",0.01,mcg,0 %
-"Sodium",2325.48,mg,101 %
+"Sodium",3875.80,mg,169 %
 "Zinc",0.01,mg,0 %
 "Protein",0.00,g,0 %
 "Alanine",0.000,g,
@@ -94,10 +94,10 @@ Calories,0,,
 "Cholesterol",0.00,mg,0 %
 "Phytosterols",0.00,mg,
 "Alcohol, ethyl",0.0,g,
-"Ash",5.99,g,
+"Ash",9.98,g,
 "Caffeine",0.00,mg,
 "Theobromine",0.00,mg,
-"Water",0.01,g,
+"Water",0.02,g,
 
 * DV is based on 2000 calories diet.
 

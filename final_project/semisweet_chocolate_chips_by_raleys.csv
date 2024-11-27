@@ -1,0 +1,47 @@
+Downloaded from
+https://www.nutritionvalue.org
+
+Food,Amount,Unit,Description
+"Semi-sweet chocolate chips by Raley's",15.0,g,1 tbsp
+
+Nutrient,Amount,Unit,DV
+Calories,70,,
+"Calcium",0.00,mg,0 %
+"Iron",0.40,mg,2 %
+"Potassium",0.00,mg,0 %
+"Sodium",0.00,mg,0 %
+"Protein",1.00,g,2 %
+"Carbohydrate",10.00,g,4 %
+"Fiber",1.00,g,4 %
+"Sugars",8.00,g,
+"Sugars, added",8.00,g,
+"Net carbs",9,g,
+"function drawVisualization3() {
+if (!google.visualization || !google.visualization.DataTable) return;
+var data = new google.visualization.DataTable();
+data.addColumn('string', 'X');
+data.addColumn('number', 'Y');
+data.addRows(1);
+data.setValue(0, 0, 'Saturated 100%');
+data.setValue(0, 1, 100);
+var chart = new google.visualization.PieChart(document.getElementById('chart-3'));
+    var options = {
+      backgroundColor: 'transparent',
+      legendBackgroundColor: 'transparent',
+      title: "Fatty acid by type",
+      width: '100%',
+      height: '100%',
+      chartArea: { left: '10%', top: '10%', width: '90%', height: '100%' },
+colors: ["AAAAFF"]
+    };
+    chart.draw(data, options);}
+Fatty acid by typeSaturated 100%100%XYSaturated 100%100Saturated 100%",Saturated 100%,undefined,100
+"Fat",4.000,g,5 %
+"Saturated fatty acids",2.501,g,13 %
+"Fatty acids, total trans",0.000,g,
+"Cholesterol",0.00,mg,0 %
+
+* DV is based on 2000 calories diet.
+
+Downloaded from
+https://www.nutritionvalue.org

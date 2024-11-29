@@ -2,20 +2,20 @@ Downloaded from
 https://www.nutritionvalue.org
 
 Food,Amount,Unit,Description
-"Semi-sweet chocolate chips by Raley's",15.0,g,1 tbsp
+"Semi-sweet chocolate chips by Raley's",10,g,
 
 Nutrient,Amount,Unit,DV
-Calories,70,,
+Calories,47,,
 "Calcium",0.00,mg,0 %
-"Iron",0.40,mg,2 %
+"Iron",0.27,mg,2 %
 "Potassium",0.00,mg,0 %
 "Sodium",0.00,mg,0 %
-"Protein",1.00,g,2 %
-"Carbohydrate",10.00,g,4 %
-"Fiber",1.00,g,4 %
-"Sugars",8.00,g,
-"Sugars, added",8.00,g,
-"Net carbs",9,g,
+"Protein",0.67,g,1 %
+"Carbohydrate",6.67,g,2 %
+"Fiber",0.67,g,2 %
+"Sugars",5.33,g,
+"Sugars, added",5.33,g,
+"Net carbs",6,g,
 "function drawVisualization3() {
 if (!google.visualization || !google.visualization.DataTable) return;
 var data = new google.visualization.DataTable();
@@ -36,8 +36,8 @@ colors: ["AAAAFF"]
     };
     chart.draw(data, options);}
 Fatty acid by typeSaturated 100%100%XYSaturated 100%100Saturated 100%",Saturated 100%,undefined,100
-"Fat",4.000,g,5 %
-"Saturated fatty acids",2.501,g,13 %
+"Fat",2.667,g,3 %
+"Saturated fatty acids",1.667,g,8 %
 "Fatty acids, total trans",0.000,g,
 "Cholesterol",0.00,mg,0 %
 
